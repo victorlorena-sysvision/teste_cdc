@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_O44EEeIJEe6MXJjQKoTsOw" label="teste_cdc" description="" language="java" technicalLabel="TESTE_CDC" author="_O44EEuIJEe6MXJjQKoTsOw" productVersion="Talend Real-time Big Data Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/victorlorena-sysvision/teste_cdc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_O44EEeIJEe6MXJjQKoTsOw" label="teste_cdc" description="" language="java" technicalLabel="TESTE_CDC" author="_O44EEuIJEe6MXJjQKoTsOw" productVersion="Talend Real-time Big Data Platform-8.0.1.20221221_1125-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/victorlorena-sysvision/teste_cdc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
     <componentsSettings xmi:id="_pTRNUOILEe6Tc9HDcryNyw" name="DI|tUniservRTMailBulk" family="Deprecated"/>
     <componentsSettings xmi:id="_pTRNUeILEe6Tc9HDcryNyw" name="DI|tAccessBulkExec" family="Databases/DB Specifics/Access"/>
     <componentsSettings xmi:id="_pTRNUuILEe6Tc9HDcryNyw" name="DI|tSAPHanaUnload" family="Databases/DB Specifics/SAP Hana"/>
